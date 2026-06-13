@@ -1,2 +1,2 @@
 # Decodelabs_tasks
-Decodelabs tasks includes the To_Do List Application, expense Tracker and Random Password Generator. These projects are python_based and demonstrates fundamental Python programming concepts such as user input handling, data management, file operations, string manipulation, and the use of built-in modules.
+A collection of Python mini projects developed as part of the DecodeLabs internship program, including a To-Do List Application, Expense Tracker, and Random Password Generator. These projects demonstrate core Python programming concepts such as user input handling, file operations, data management, string manipulation, and problem-solving through practical real-world applications.
